@@ -1,0 +1,66 @@
+
+{
+    "header": {
+        "forBusiness": "Biznes uchun",
+        "forClients": "Mijozlar uchun",
+        "login": "Kirish / Ro'yxatdan o'tish",
+        "myAppointments": "Mening uchrashuvlarim",
+        "profile": "Profil",
+        "logout": "Chiqish"
+    },
+    "footer": {
+        "subtitle": "Keyingi uchrashuvingizni osongina band qiling.",
+        "about": "Biz haqimizda",
+        "careers": "Karyera",
+        "press": "Matbuot",
+        "contact": "Aloqa",
+        "copyright": "Rejaly. Barcha huquqlar himoyalangan."
+    },
+    "home": {
+        "heroTitle": "Keyingi uchrashuvingizni toping va band qiling",
+        "heroSubtitle": "O'zbekistondagi eng yaxshi sartaroshlar, soch stilistlari va tirnoq ustalarini kashf eting.",
+        "searchPlaceholder": "Ism yoki joylashuv bo'yicha qidirish...",
+        "all": "Barchasi",
+        "featuredSpecialists": "Taniqli mutaxassislar"
+    },
+    "auth": {
+        "welcomeBack": "Xush kelibsiz",
+        "createAccount": "Hisob yaratish",
+        "emailLabel": "Email manzil",
+        "passwordLabel": "Parol",
+        "iAmA": "Men:",
+        "client": "Mijoz",
+        "business": "Biznes",
+        "signIn": "Kirish",
+        "signUp": "Ro'yxatdan o'tish",
+        "noAccount": "Hisobingiz yo'qmi? Ro'yxatdan o'ting",
+        "hasAccount": "Hisobingiz bormi? Kiring",
+        "error": "Noto'g'ri ma'lumotlar. Iltimos, qaytadan urining."
+    },
+    "dashboard": {
+        "welcome": "Xush kelibsiz, {{name}}!",
+        "subtitle": "Bugungi biznes faoliyatingizning qisqacha mazmuni.",
+        "statCards": {
+            "appointments": "Bugungi uchrashuvlar",
+            "revenue": "Taxminiy daromad",
+            "newClients": "Yangi mijozlar"
+        },
+        "upcomingAppointments": {
+            "title": "Kelgusi uchrashuvlar",
+            "time": "Vaqt",
+            "client": "Mijoz",
+            "service": "Xizmat",
+            "specialist": "Mutaxassis",
+            "actions": "Harakatlar",
+            "details": "Tafsilotlar",
+            "cancel": "Bekor qilish"
+        }
+    },
+    "app": {
+        "accessRestricted": {
+            "title": "Ruxsat cheklangan",
+            "message": "Boshqaruv paneliga kirish uchun biznes egasi sifatida tizimga kiring.",
+            "button": "Biznes sifatida kirish"
+        }
+    }
+}

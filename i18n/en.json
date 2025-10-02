@@ -1,0 +1,66 @@
+
+{
+    "header": {
+        "forBusiness": "For Business",
+        "forClients": "For Clients",
+        "login": "Login / Sign Up",
+        "myAppointments": "My Appointments",
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+    "footer": {
+        "subtitle": "Book your next appointment with ease.",
+        "about": "About",
+        "careers": "Careers",
+        "press": "Press",
+        "contact": "Contact",
+        "copyright": "Rejaly. All rights reserved."
+    },
+    "home": {
+        "heroTitle": "Find & Book Your Next Appointment",
+        "heroSubtitle": "Discover the best barbers, hair stylists, and nail artists in Uzbekistan.",
+        "searchPlaceholder": "Search by name or location...",
+        "all": "All",
+        "featuredSpecialists": "Featured Specialists"
+    },
+    "auth": {
+        "welcomeBack": "Welcome Back",
+        "createAccount": "Create Account",
+        "emailLabel": "Email address",
+        "passwordLabel": "Password",
+        "iAmA": "I am a:",
+        "client": "Client",
+        "business": "Business",
+        "signIn": "Sign in",
+        "signUp": "Sign up",
+        "noAccount": "Don't have an account? Sign Up",
+        "hasAccount": "Already have an account? Sign In",
+        "error": "Invalid credentials. Please try again."
+    },
+    "dashboard": {
+        "welcome": "Welcome, {{name}}!",
+        "subtitle": "Here's a summary of your business activity today.",
+        "statCards": {
+            "appointments": "Today's Appointments",
+            "revenue": "Estimated Revenue",
+            "newClients": "New Clients"
+        },
+        "upcomingAppointments": {
+            "title": "Upcoming Appointments",
+            "time": "Time",
+            "client": "Client",
+            "service": "Service",
+            "specialist": "Specialist",
+            "actions": "Actions",
+            "details": "Details",
+            "cancel": "Cancel"
+        }
+    },
+    "app": {
+        "accessRestricted": {
+            "title": "Access Restricted",
+            "message": "Please log in as a business owner to access the dashboard.",
+            "button": "Login as Business"
+        }
+    }
+}
